@@ -242,6 +242,24 @@ github_actions_v2_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 github_actions_v2_SOURCE_DIR:STATIC=C:/Users/egosh/Desktop/ck/github_actions_v2
 
+//Value Computed by CMake
+github_actions_v2_run_BINARY_DIR:STATIC=C:/Users/egosh/Desktop/ck/github_actions_v2/cmake-build-debug
+
+//Value Computed by CMake
+github_actions_v2_run_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+github_actions_v2_run_SOURCE_DIR:STATIC=C:/Users/egosh/Desktop/ck/github_actions_v2
+
+//Value Computed by CMake
+github_actions_v2_tests_BINARY_DIR:STATIC=C:/Users/egosh/Desktop/ck/github_actions_v2/cmake-build-debug
+
+//Value Computed by CMake
+github_actions_v2_tests_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+github_actions_v2_tests_SOURCE_DIR:STATIC=C:/Users/egosh/Desktop/ck/github_actions_v2
+
 
 ########################
 # INTERNAL cache entries
