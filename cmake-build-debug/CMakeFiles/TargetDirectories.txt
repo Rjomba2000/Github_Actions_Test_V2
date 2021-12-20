@@ -1,0 +1,3 @@
+C:/Users/egosh/Desktop/ck/github_actions_v2/cmake-build-debug/CMakeFiles/github_actions_v2.dir
+C:/Users/egosh/Desktop/ck/github_actions_v2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/egosh/Desktop/ck/github_actions_v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+# ninja log v5
+3	411	6616951190556878	CMakeFiles/github_actions_v2.dir/src/main.cpp.obj	c92bf18a0130d945
+19	120	6616951187644317	CMakeFiles/github_actions_v2.dir/src/MyBinaryTree.cpp.obj	c9f110979722c656
+0	438	6616932525054920	CMakeFiles/github_actions_v2.dir/main.cpp.obj	bd6eb15726bacca3
+389	524	6616950289738070	github_actions_v2.exe	7d24222cacbaad1c
+0	274	6616952691588826	build.ninja	7cfde283a9729dbf
+3	366	6616952695961742	CMakeFiles/github_actions_v2.dir/src/main.cpp.obj	c92bf18a0130d945
+366	494	6616952697212863	github_actions_v2.exe	9465c0ec8111d892
+3	383	6616953633522296	CMakeFiles/github_actions_v2.dir/src/main.cpp.obj	c92bf18a0130d945
+384	516	6616953634829027	github_actions_v2.exe	9465c0ec8111d892
